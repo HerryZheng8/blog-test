@@ -13,7 +13,7 @@
 ## 懂一点点的`HTML`和`CSS`
 
 比如弄出一个长宽100像素的蓝色正方形
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
